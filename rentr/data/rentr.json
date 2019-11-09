@@ -1,0 +1,12 @@
+{
+  "renters" : [
+    {
+      "name":"Sims",
+      "amount":"1200"
+    },
+    {
+      "name":"Staci",
+      "amount":"1200"
+    }
+  ]
+}
